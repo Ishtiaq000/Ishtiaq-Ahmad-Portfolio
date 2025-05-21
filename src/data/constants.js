@@ -156,7 +156,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "/logos/experience/NetSol_logo.PNG",
+    img: "logos/experience/NetSol_logo.PNG",
     role: "AI/ML Engineer",
     company: "NetSol - Lahore",
     date: "Jan 2024 - Present",
@@ -179,7 +179,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "/logos/experience/stellatech_logo.JPEG",
+    img: "logos/experience/stellatech_logo.JPEG",
     role: "Data Scientist Intern",
     company: "Stella Technology - Islamabad",
     date: "Jun 2023 - Dec 2023",
@@ -199,7 +199,7 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "/logos/experience/PTCL-logo.JPEG",
+    img: "logos/experience/PTCL-logo.JPEG",
     role: "Full Stack Developer",
     company: "PTCL - Islamabad",
     date: "Jan 2023 - May 2023",
@@ -215,7 +215,7 @@ export const experiences = [
   },
   {
     id: 3,
-    img: "/logos/experience/Arrowsol8-logo.JPEG",
+    img: "logos/experience/Arrowsol8-logo.JPEG",
     role: "Web Development Intern",
     company: "Arrowsol8 - Islamabad",
     date: "Jun 2022 - Dec 2022",
@@ -233,7 +233,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "/logos/education/uol-logo.JPG",
+    img: "logos/education/uol-logo.JPG",
     school: "University of Lahore",
     date: "2019 - 2023",
     grade: "3.8 CGPA",
@@ -242,7 +242,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "/logos/education/Gomal_University_logo.PNG",
+    img: "logos/education/Gomal_University_logo.PNG",
     school: "Gomal University D.I Khan",
     date: "2017 - 2019",
     grade: "3.5 CGPA",
@@ -251,7 +251,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "/logos/education/saeed_insititute-logo.PNG",
+    img: "logos/education/saeed_insititute-logo.PNG",
     school: "Saeed Institute of IT, Karak",
     date: "2017 - 2019",
     grade: "A Grade",
@@ -260,7 +260,7 @@ export const education = [
   },
   {
     id: 3,
-    img: "/logos/education/oxford-logo.JPG",
+    img: "logos/education/oxford-logo.JPG",
     school: "Oxford Science College",
     date: "2015 - 2017",
     grade: "A Grade",
