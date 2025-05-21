@@ -156,7 +156,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "logos/experience/NetSol_logo.PNG",
+    img: "./logos/experience/NetSol_logo.PNG",
     role: "AI/ML Engineer",
     company: "NetSol - Lahore",
     date: "Jan 2024 - Present",
@@ -179,7 +179,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "logos/experience/stellatech_logo.JPEG",
+    img: "./logos/experience/stellatech_logo.JPEG",
     role: "Data Scientist Intern",
     company: "Stella Technology - Islamabad",
     date: "Jun 2023 - Dec 2023",
@@ -199,7 +199,7 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "logos/experience/PTCL-logo.JPEG",
+    img: "./logos/experience/PTCL-logo.JPEG",
     role: "Full Stack Developer",
     company: "PTCL - Islamabad",
     date: "Jan 2023 - May 2023",
@@ -215,7 +215,7 @@ export const experiences = [
   },
   {
     id: 3,
-    img: "logos/experience/Arrowsol8-logo.JPEG",
+    img: "./logos/experience/Arrowsol8-logo.JPEG",
     role: "Web Development Intern",
     company: "Arrowsol8 - Islamabad",
     date: "Jun 2022 - Dec 2022",
@@ -233,7 +233,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "logos/education/uol-logo.JPG",
+    img: "./logos/education/uol-logo.JPG",
     school: "University of Lahore",
     date: "2019 - 2023",
     grade: "3.8 CGPA",
@@ -242,7 +242,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "logos/education/Gomal_University_logo.PNG",
+    img: "./logos/education/Gomal_University_logo.PNG",
     school: "Gomal University D.I Khan",
     date: "2017 - 2019",
     grade: "3.5 CGPA",
@@ -251,7 +251,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "logos/education/saeed_insititute-logo.PNG",
+    img: "./logos/education/saeed_insititute-logo.PNG",
     school: "Saeed Institute of IT, Karak",
     date: "2017 - 2019",
     grade: "A Grade",
@@ -260,7 +260,7 @@ export const education = [
   },
   {
     id: 3,
-    img: "logos/education/oxford-logo.JPG",
+    img: "./logos/education/oxford-logo.JPG",
     school: "Oxford Science College",
     date: "2015 - 2017",
     grade: "A Grade",
@@ -275,7 +275,7 @@ export const projects = [
     title: "AI-Powered JobScan Keyword Extractor",
     date: "Jan 2024 - Present",
     description: "Developed an AI-powered tool that extracts and analyzes keywords from job descriptions using NLP techniques. Implemented a RAG pipeline with LangChain and HuggingFace models for enhanced keyword extraction. Created a user-friendly interface with React and integrated with vector databases for efficient storage and retrieval.",
-    image: "/projects/keyword extractor.PNG",
+    image: "./projects/keyword extractor.PNG",
     tags: ["Python", "LangChain", "HuggingFace", "React", "FAISS", "NLP"],
     category: "AI/ML",
     github: "https://github.com/Ishtiaq000/jobscan-keyword-extractor",
@@ -286,7 +286,7 @@ export const projects = [
     title: "Wood Furniture E-Commerce Platform",
     date: "Jun 2023 - Dec 2023",
     description: "Built a full-stack e-commerce platform for wood furniture using MERN stack. Implemented secure payment processing with Stripe, real-time inventory management, and responsive design. Integrated admin dashboard for order management and analytics.",
-    image: "/projects/wood furniture.JPEG",
+    image: "./projects/wood furniture.JPEG",
     tags: ["React", "Node.js", "MongoDB", "Express", "Stripe", "Redux"],
     category: "Web Development",
     github: "https://github.com/Ishtiaq000/wood-furniture-ecommerce",
@@ -297,7 +297,7 @@ export const projects = [
     title: "Predictive Maintenance System",
     date: "Jan 2023 - May 2023",
     description: "Developed a machine learning system for predictive maintenance of industrial equipment. Implemented time series forecasting models using LSTM and Prophet. Created a real-time monitoring dashboard with anomaly detection capabilities.",
-    image: "/projects/Predictive Maintenance System.JPEG",
+    image: "./projects/Predictive Maintenance System.JPEG",
     tags: ["Python", "TensorFlow", "LSTM", "Prophet", "Docker", "AWS"],
     category: "AI/ML",
     github: "https://github.com/Ishtiaq000/predictive-maintenance",
@@ -308,7 +308,7 @@ export const projects = [
     title: "Task Management Application",
     date: "Jun 2022 - Dec 2022",
     description: "Created a task management application with real-time updates using WebSocket. Implemented user authentication, task categorization, and deadline tracking. Built with React and Node.js, featuring a clean and intuitive UI.",
-    image: "/projects/Task Management Application.JPG",
+    image: "./projects/Task Management Application.JPG",
     tags: ["React", "Node.js", "WebSocket", "MongoDB", "Express", "JWT"],
     category: "Web Development",
     github: "https://github.com/Ishtiaq000/task-management-app",
