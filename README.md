@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as an AI/ML Engineer and Full Stack Developer.
 
-- Weblink: [Live Website](https://ishtiaqahmad.netlify.app)
+- Weblink: [Live Website](https://ishtiaq-ahmad-portfolio.vercel.app)
 
 ## About Me
 
@@ -102,7 +102,7 @@ To run this portfolio locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Ishtiaq000/portfolio.git
+git clone https://github.com/Ishtiaq000/Ishtiaq-Ahmad-Portfolio
 ```
 
 1. Navigate to the project directory:
