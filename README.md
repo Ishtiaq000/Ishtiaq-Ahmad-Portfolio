@@ -77,13 +77,13 @@ I am an AI/ML Engineer with a strong background in software development and data
 
 - **Bachelor of Science in Software Engineering**
   - University of Lahore (2019-2023)
-  - CGPA: 3.8/4.0
+  - CGPA: 3.25/4.0
   - Focus: Software Development, Programming, Computer Science
   - Participated in technical workshops and coding competitions
 
 - **Bachelor of Arts**
   - Gomal University D.I Khan (2017-2019)
-  - CGPA: 3.5/4.0
+  - CGPA: 3/4.0
   - Developed strong analytical and communication skills
 
 - **Diploma in Information Technology**
@@ -138,7 +138,7 @@ npm start
 
 ## Contact
 
-- LinkedIn: [Ishtiaq Ahmad](https://www.linkedin.com/in/ishtiaq-ahmad/)
+- LinkedIn: [Ishtiaq Ahmad](www.linkedin.com/in/ishtiaq-ahmad-29273714a)
 - GitHub: [Ishtiaq000](https://github.com/Ishtiaq000)
 - Twitter: [@IshtiaqAhmad](https://twitter.com/IshtiaqAhmad)
 - Instagram: [@ishtiaq.ahmad](https://www.instagram.com/ishtiaq.ahmad/)
