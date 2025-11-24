@@ -83,7 +83,7 @@ I am an AI/ML Engineer with a strong background in software development and data
 
 - **Bachelor of Arts**
   - Gomal University D.I Khan (2017-2019)
-  - CGPA: 3/4.0
+  - CGPA: 320/550
   - Developed strong analytical and communication skills
 
 - **Diploma in Information Technology**
