@@ -9,7 +9,7 @@ export const Bio = {
     "Passionate about building scalable applications, solving real-world problems, and exploring the power of machine learning and modern web technologies.",
   github: "https://github.com/Ishtiaq000",
   resume: "/resume/Ishtiaq_Resume.pdf",
-  linkedin: "https://www.linkedin.com/in/ishtiaq-ahmad/",
+  linkedin: "https://www.linkedin.com/in/ishtiaq-ahmad-29273714a/",
   twitter: "https://twitter.com/IshtiaqAhmad",
   insta: "https://www.instagram.com/ishtiaq.ahmad/",
   facebook: "https://www.facebook.com/ishtiaq.ahmad/",
