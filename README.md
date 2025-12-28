@@ -3,7 +3,7 @@
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as an AI/ML Engineer and Full Stack Developer.
 
 - Vercel Deployment: [Live Website (Vercel)](https://ishtiaq-ahmad-portfolio.vercel.app)
-- Netlify Deployment: [Live Website (Netlify)](https://ishtiaq-ahmad.netlify.app)
+- Netlify Deployment: [Live Website (Netlify)](https://ishtiaq-khan.netlify.app/)
 
 ## About Me
 
